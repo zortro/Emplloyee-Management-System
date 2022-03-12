@@ -4,7 +4,7 @@
 
 <!-- project shields -->
 
-
+![demo](./assets/demo.gif)
 <!-- toc -->
 <a name="table-of-contents"></a>
 ## Table of Contents
